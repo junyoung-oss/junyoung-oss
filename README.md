@@ -1,8 +1,6 @@
 ## About Me
-문제는 늘 숨어 있고,  
-해결은 늘 나를 기다립니다.  
-품질을 지키며 배우고,  
-배움을 쌓아 개발로 나아갑니다. <br>
+문제는 늘 숨어 있고, 해결은 늘 나를 기다립니다.  
+품질을 지키며 배우고, 배움을 쌓아 개발로 나아갑니다. <br>
 
 <br>
 - 문제를 발견하고, 불필요한 과정을 개선하는 것을 좋아한다. <br>
@@ -34,19 +32,15 @@
 
 ### Most Used Language
 ---
-![Stay-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-agnes&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-agnes&layout=compact)
+![junyoung-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung-oss&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung-oss&layout=compact)
 
 ### hist
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23727272&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-
-
-
 <!--
-**Neo-agnes/Neo-agnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junyoung-oss/junyoung-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
