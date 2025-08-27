@@ -1,5 +1,5 @@
 ## About Me
-문제는 늘 숨어 있고, 해결은 늘 나를 기다립니다.  
+문제는 늘 숨어 있고, 해결은 늘 나를 기다립니다. <br>
 품질을 지키며 배우고, 배움을 쌓아 개발로 나아갑니다. <br>
 
 <br>
@@ -36,8 +36,7 @@
 
 ### hist
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23727272&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23727272&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!--
 **junyoung-oss/junyoung-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
